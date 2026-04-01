@@ -15,8 +15,8 @@ SOURCES = [
 ]
 
 EXCLUDE_COUNTRIES = {"🇮🇷", "🇷🇺", "🇨🇳", "🇹🇷", "IR", "RU", "CN", "TR"}
-TOP_N = 200                    # ← You can increase to 150 or 200 if you want more nodes
-MAX_TEST_LATENCY = 10000        # Test up to 10 seconds (very lenient)
+TOP_N = 50                    # ← You can increase to 150 or 200 if you want more nodes
+MAX_TEST_LATENCY = 20000        # Test up to 10 seconds (very lenient)
 
 # ================== HELPER FUNCTIONS ==================
 def should_exclude(config: str) -> bool:
