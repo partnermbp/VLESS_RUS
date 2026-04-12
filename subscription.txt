@@ -1,58 +1,58 @@
 # profile-title: 🚀 VLESS Active Nodes (Ping Tested)
 # profile-update-interval: 6
-# Generated: 2026-04-11 20:22 UTC
-# Total Nodes Tested: 159
-# Active Nodes Found: 153
+# Generated: 2026-04-12 01:43 UTC
+# Total Nodes Tested: 237
+# Active Nodes Found: 230
 # Test: TCP connect + TLS handshake (Reality-aware)
 # Sorted by: Lowest latency first
 # GitHub Auto-Updated • From Russia-focused sources
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.195:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.91:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.90:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.198:2096?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.83:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.215:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.209:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.120:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.82:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.238:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.199:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.77:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.200:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.255:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.66:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.71:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.67:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.55:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.201:2096?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.222:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.49:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.37:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.17:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.26:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.89:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.34:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.40:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.31:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.240:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.255:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.242:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.228:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.226:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.170:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.244:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.50:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.128:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.210:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.182:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.255:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.169:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.186:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.241:2096?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.243:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.247:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.249:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.98:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.86:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.9:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.134:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.252:2096?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.53:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.171:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.246:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.78:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.131:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.55:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.124:2096?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.23:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.246:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.215:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.169:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.249:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.224:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.161:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.243:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.222:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.96:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.98:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.170:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.181:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.198:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.83:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.228:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.102:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.236:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.186:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://afed0fd1-352b-49b0-a0de-76d6c847972b@217.13.104.133:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&sid=5cae63084b3281f3&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.15:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.206:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.199:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.237:2096?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.10:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.124:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.209:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.189:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.198:2096?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.82:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.71:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.219:8443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.226:2087?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://b59cf03c-704f-44b0-b329-d3443e860481@85.239.54.119:9877?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=www.io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.66:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.62:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.157:2083?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.163:2053?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.82:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
